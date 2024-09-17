@@ -478,7 +478,7 @@ def error_character(input_char, char_range):
     # A randomly chosen neigbouring key in the same keyboard row
     #
     if (rand_num <= single_typo_prob['same_row']):
-      if (input_char in rows):
+      if (input_char in rows): 
         output_char = random.choice(letterDict[input_char])
       else:
         choice_str.replace(string.ascii_lowercase+string.digits, \
@@ -708,7 +708,7 @@ def load_misspellings_dict(misspellings_file_name):
      Returns a dictionary where the keys are the correct spellings and the
      values are a list of 5 misspellings.
   """
-  namesFile = open(misspellings_file_name, 'r', encoding='utf-8')
+  namesFile = open(misspellings_file_name, 'r', encoding='iso-8859-1', errors='replace')
   reader = csv.DictReader(namesFile)
 
   misspell_dict = {}
@@ -749,7 +749,7 @@ def create_subfile(numberOfNames):
 #IMPORT DATA FROM MASTERFILE
 
 #Open master file (.csv format)
-  firstNameFile = open("data\hawaiianFirstNames.csv", 'r', encoding = 'utf-8')
+  firstNameFile = open("data\\hawaiianFirstNames.csv", 'r', encoding='iso-8859-1', errors='replace')
 
 #Determine length of masterFile
   firstNameFileContent = firstNameFile.readlines()
@@ -762,7 +762,7 @@ def create_subfile(numberOfNames):
   #IMPORT DATA FROM MASTERFILE
 
 #Open master file (.csv format)
-  lastNameFile = open("data\hawaiianLastNames.csv", 'r', encoding = 'utf-8')
+  lastNameFile = open("data\\hawaiianLastNames.csv", 'r', encoding='iso-8859-1', errors='replace')
 
 #Determine length of masterFile
   lastNameFileContent = lastNameFile.readlines()
@@ -811,7 +811,7 @@ def create_subfile(numberOfNames):
     rowNames.append([name, zNum[i]])
     i = i + 1
 
-  with open("data\hawaiianFirstNames-freq.csv", 'w', encoding="utf-8", newline = '') as subFile:  #Max's Code
+  with open("data\\hawaiianFirstNames-freq.csv", 'w', encoding="iso-8859-1", errors='replace', newline='') as subFile:  #Max's Code
     write = csv.writer(subFile)
     write.writerow(columnNames)
     write.writerows(rowNames)
@@ -833,7 +833,7 @@ def create_subfile(numberOfNames):
     rowNames.append([name, zNum[i]])
     i = i + 1
 
-  with open("data\hawaiianLastNames-freq.csv", 'w', encoding="utf-8", newline = '') as subFile:  #Max's Code
+  with open("data\\hawaiianLastNames-freq.csv", 'w', encoding="iso-8859-1", errors='replace', newline='') as subFile:
     write = csv.writer(subFile)
     write.writerow(columnNames)
     write.writerows(rowNames)
@@ -1134,7 +1134,7 @@ for field_dict in field_list:
 
     if (file_name != None):
       try:
-        fin = open(file_name, 'r', encoding ='utf-8')  # Open file for reading
+        fin = open(file_name, 'r', encoding='iso-8859-1', errors='replace')  # Open file for reading
       except:
         print('  Error: Can not open frequency file %s' % (file_name))
         raise Exception
@@ -1328,7 +1328,7 @@ while (rec_cnt < num_dup_records):
         if (random.random() <= field_swap_prob[field_pair]) and \
            (num_modif_in_record <= (max_num_record_modifi-2)):
 
-          fname_a, fname_b = field_pair
+          fname_a, fname_b = field_pair[:2]
 
           # Make sure both fields are in the record dictionary
           #
@@ -1746,7 +1746,7 @@ field_name_list = ['rec_id']+field_names
 # Open output file
 #
 try:
-  f_out = open(output_file,'w', encoding = 'utf-8')
+  f_out = open(output_file, 'w', encoding='iso-8859-1', errors='replace')
 except:
   print('Error: Can not write to output file "%s"' % (output_file))
   sys.exit()

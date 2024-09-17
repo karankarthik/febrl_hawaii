@@ -1,0 +1,501 @@
+rec_id, given_name, surname, street_number, address_1, suburb, postcode, state, date_of_birth, age, phone_number, soc_sec_id, blocking_number
+rec-517-org,   Althea, Noelani, 62, Kamoamoa Hmstd Rd, Waipio, 96753, az, 19550905, , 310 1079471,3606172,9
+rec-610-org,   Concepcion, Lopes, 85, Anapalau Pl, Kawela Bay, 89124, hi, 20181004, 24, 480 6103272,1978228,1
+rec-125-org,   Rhea, Ouchi, 36, Kamoamoa Hmstd Rd, Wahiawa, 96778, wa, 19751224, 8, 253 5588946,9083544,4
+rec-247-org,   Oscar, Oshima, 35, Naupaka Pl, Ahuimanu, 90290, az, , 27, 253 2602875,2947136,1
+rec-59-org,   , Hayes, 31, Kiionioni Loop, Kalaeloa, 85085, nv, 20100817, 13, 423 3801180,3142894,2
+rec-618-org,   Jena, Nagao, 5, Velez Rd, Waipio Acres, 85250, hi, 20050529, 32, 310 2014239,8490846,9
+rec-591-org,   Cannon, Grant, 32, , Kailua CDP, 85260, tx, 20060705, 37, 423 7559759,9734883,2
+rec-151-org,   Triton, Ouchi, 16, Honokoa Pl, Ahuimanu, 90294, hi, 19510504, 34, 480 8739054,2879658,9
+rec-27-org,   Maxwell, Lane, 74, Kipu Pl, Hauula, 96746, nv, 19751207, 22, 602 0986337,9632403,8
+rec-170-org,   Mila, Cortez, 8, Anapalau Pl, Orchidlands Estates, 90290, hi, 19740929, 35, 480 7036567,6092077,8
+rec-574-org,   Vickie, McKeague, 156, Kipu Pl, Holualoa, 96747, nv, 19860518, 32, 310 8924388,8459251,3
+rec-631-org,   Jena, Ouchi, 25, Kelikoi St, Kaiminani, 92735, hi, 19330420, 28, 310 0917617,9364873,6
+rec-365-org,   Misayo, Ouchi, 11, Wai nani, Puako, 85027, wa, 19761115, , 423 6042743,6642671,7
+rec-28-org,   Quincy, Noguchi, 34, Alaula Way, Ainaloa, 85250, nv, 19970929, 26, 602 2360069,1204204,2
+rec-129-org,   Jeri, Nakanishi, 11, Ahana St, Pepeekeo, 90290, , 19441101, 34, 213 3301124,7354115,6
+rec-160-org,   Kaylen, Inoa, 11, Noeau St, Wailua Homesteads, 85043, , 19490516, 28, 253 8770663,5041535,8
+rec-268-org,   Kalani, Petersen, 24, Lincoln Ave, Mauna Loa Estates, 85043, wa, 20060627, 31, 253 3256326,5375671,6
+rec-683-org,   Jena, Hayes, 4, Mauna Kea-umikoa Trail, Volcano, 96748, az, 19440506, 34, 808 4299788,5267129,2
+rec-436-org,   Sadamu, Apana, 2, , Puhi, 90212, az, 19850415, 23, 213 9239656,9773557,2
+rec-427-org,   Nohealani, Delima, 25, Jarvis St, Puako, 85079, az, 19500803, 29, 253 9305717,2816610,2
+rec-153-org,   Morio, Noelani, 107, Halelena Pl, Puhi, 85250, az, 19750122, 20, 808 5246948,7825057,2
+rec-86-org,   Jena, Ouchi, 34, Belser St, Puako, 90295, az, 19980118, 36, 480 7291156,4403765,4
+rec-676-org,   Jena, Cadiz, 23, Anapalau Pl, Hauula, 85029, , 19960515, 26, 480 3884201,9750355,1
+rec-514-org,   Jena, Petersen, 10, Anapalau Pl, West Loch Estate, 85280, az, 20090513, 27, 213 3413844,4163222,3
+rec-410-org,   Dena, Barker, , Monte St, Volcano, 89121, hi, 20030622, 26, 213 4737069,7385821,2
+rec-142-org,   Kristopher, Low, 220, Naupaka Pl, Keokea, 96778, nv, 19620301, 24, 602 6037002,4219768,9
+rec-173-org,   Kristopher, Ouchi, 4, Keopua St, Volcano, 96746, az, 19910131, 31, 310 7476417,7210325,1
+rec-671-org,   Kulia, Ouchi, 45, , Ahuimanu, 96745, hi, 19640908, 10, 253 5185409,5845815,6
+rec-224-org,   Jena, Ouchi, 8, N Nimitz Hwy, Maalaea, 85282, hi, 19540310, 28, ,2770850,6
+rec-370-org,   Tatum, Ouchi, 2, Kipu Pl, Pakala Village, 85043, wa, 20100818, 24, 206 8982612,8999735,7
+rec-665-org,   Kristopher, Ouchi, 4, Onaha St, Paukaa, 85003, nv, 19540618, 19, 213 5998504,6398914,9
+rec-131-org,   Jena, Hayes, 4, Diamond Ln, Paauilo, 96746, hi, 19400811, 9, 310 6571836,1871035,7
+rec-204-org,   Kaydence, Kaneko, 4355, Pono Kope St, Wailua, 89124, az, 19610618, , 213 0152435,6904798,4
+rec-568-org,   Shogo, Lopes, 158, Pharis Pl, Volcano, 85011, , 19531120, 22, ,2792702,0
+rec-535-org,   Roxanne, Petersen, 135, Lincoln Ave, Puako, 96737, or, 20191009, , 206 8267071,1527370,8
+rec-439-org,   Tatum, Lopes, 60, Naupaka Pl, Puako, 90290, nv, 19381215, 33, ,2722092,9
+rec-614-org,   Oliwa, Fujitani, 35, Panui St, Waialua, 85075, hi, 20140502, 36, 206 6749320,9748678,8
+rec-699-org,   Banyan, Barker, 5, Ehupua Pl, Waipio Acres, 85277, nv, 19901105, 30, 423 2512533,5573029,4
+rec-363-org,   Jena, Hayes, 3, Pharis Pl, Pukalani, 89124, az, 19540318, 22, 253 1433517,8992502,7
+rec-379-org,   Jena, A'ala, 22, Liliha St, Holualoa, 90290, , 19460520, 33, 206 1843950,2423082,4
+rec-349-org,   Jena, Barker, 6, , Pakala Village, 85224, or, 19690318, 26, 253 3712261,4111701,7
+rec-167-org,   Rosemary, Crowell, 11, Puuhue Rd, Pakala Village, 85079, az, 19760512, 32, 310 8477726,8344413,9
+rec-69-org,   Ivy, Shiraki, 878, Apo Dr, Paauilo, 96750, hi, 20131008, 29, 808 6241720,3630138,2
+rec-201-org,   Sierra, Solomon, 42, Kaumaka Pl, Haiku-Pauwela, 92708, hi, , 32, 480 2240001,1835457,5
+rec-309-org,   Micheal, Rodriguez, 8, Ehupua Pl, Royal Kunia, 85290, nv, 19370713, 37, 423 5725720,4827243,9
+rec-348-org,   Jena, Ibara, 58, Malulani Cir, Kapalua, 85075, nv, 19370621, , 253 8226719,7707333,9
+rec-421-org,   Minnie, Dang, 24, Bravo Rd, Volcano, 96731, or, , 27, 310 6210156,3371936,6
+rec-156-org,   Kristopher, Barker, 9, N Kukui St, Volcano, 96728, or, 19320201, 30, 253 0484678,2175060,4
+rec-566-org,   Kale, McKeague, 6, Kimo, Volcano, 89135, az, 19550128, 35, 310 1265743,7063929,2
+rec-56-org,   Jena, Nahele, 59, Kula Kolea Pl, Napili-Honokowai, 89173, hi, 19471227, , 808 9898452,5026819,0
+rec-492-org,   Julio, Ouchi, 114, Huanui St, Mauna Loa Estates, 92705, hi, , , 310 4068493,9315721,4
+rec-419-org,   Sanford, Hayes, 81, Amau St, Puako, 85263, az, 19451213, , 206 8689325,1368733,2
+rec-677-org,   Hilinai, Flores, 3, Mokunoio Pl, Waimanalo Beach, 85216, tx, 20000504, 26, 480 1843857,4720607,0
+rec-694-org,   Shaylee, Hayes, 91, 19th Ave, Lawai, 92705, az, 19680126, 31, 253 9957270,3184265,2
+rec-484-org,   Jena, Franco, 16, Kii Pl, Haena, 85251, , 19890925, 26, 253 8559652,4174393,3
+rec-234-org,   Stacy, Araki, 15, Kaauhuhu Rd, Ocean Pointe, 85021, nv, 20190222, , 253 5431073,1515922,0
+rec-474-org,   Johnson, Ouchi, 318, Bougainville Loop, Kukuihaele, 90290, , 19460403, 23, 310 3355163,1628430,7
+rec-640-org,   Everett, McKeague, 31, Ahinahina Pl, Puako, 85075, nv, 19640212, 9, 310 0492073,1916073,9
+rec-143-org,   Jena, Nahele, 27, Ohai Ln, Napili-Honokowai, 90241, nv, 19580121, 11, 253 0665301,3247096,1
+rec-295-org,   Elaine, Hayes, 37, The Mall St, Volcano, 85216, hi, 19460705, 28, 206 2371169,4973318,4
+rec-226-org,   Whitney, Mizuno, 62, Hunalewa St, Pepeekeo, 89124, az, 19451021, 26, 602 4488033,1944440,5
+rec-169-org,   Makena, Hayes, 4, Lae St, Volcano, 89121, nv, 19740226, , 808 1409545,9587104,5
+rec-99-org,   Kristopher, Miyata, 33, Waolani Ave, Volcano, 89143, , 19380826, 20, 808 9613107,3003253,8
+rec-688-org,   Jena, Hayes, 78, Mahie St, Kapalua, 85271, wa, 19700703, , 423 4170228,9824732,3
+rec-52-org,   Brandie, Awai, , Paine Cir, Kaumakani, 90290, hi, 19320802, 24, 206 0486424,5308748,5
+rec-393-org,   Kristopher, Mahi'ai, 8, Kipu Pl, Waihee-Waiehu, 96731, or, 20201021, 28, 253 4101944,1638784,9
+rec-585-org,   Liane, Ouchi, 6, Jack Ln, Kukuihaele, 85234, wa, 19611219, 27, 480 7137186,7828046,0
+rec-553-org,   Bishop, Low, 31, Pueo St, Wailuku, 85075, nv, 19650915, , 206 6160229,9060743,3
+rec-106-org,   Sierra, Hayes, 10, Lincoln Ave, Mililani Town, 90290, az, , 28, 206 1684137,2843211,0
+rec-47-org,   Cheri, Muranaka, 2, , Ocean Pointe, 90290, hi, 19860105, , 310 9420156,8838319,7
+rec-223-org,   Jena, Ouchi, 11, Nanimauloa Pl, Honaunau-Napoopoo, 85219, wa, 19800905, 24, 423 0073757,4083288,5
+rec-541-org,   Jena, Kaneko, 25, Kahala Pacifica, Pakala Village, 85046, , , 42, 253 1639145,6228924,1
+rec-133-org,   Jena, Takeshita, 72, Hale-makai, Volcano, 96737, az, 19530713, 28, 808 7534531,3332032,4
+rec-2-org,   Quincy, Ouchi, 588, Puowaina Dr, Orchidlands Estates, 90224, az, 19620723, , 206 2896910,3671282,0
+rec-615-org,   Keoni, Paul, 12, Robinson Ln, Koloa, 89116, nv, 19801010, 25, 480 2594748,6152855,6
+rec-387-org,   Miyeko, Hayes, 9, Ehupua Pl, Volcano, 85043, , 19641008, 30, 808 2605367,6880034,3
+rec-565-org,   Vickie, Ouchi, 135, Paliku St, Volcano, 85064, nv, 20020728, 12, 480 5062249,7531822,0
+rec-276-org,   Nohealani, Scott, 16, Kamalei Pl, Wailua Homesteads, 85011, nv, 19431122, , 206 0735787,7348318,4
+rec-157-org,   Rosemary, Ouchi, 72, Lippia Loop, Ainaloa, 92706, az, 19690930, 34, 253 5169610,5593814,4
+rec-328-org,   Clint, Kono, 2, Keopua St, Keokea, 96731, hi, 19820308, 35, 213 2132950,3978808,3
+rec-470-org,   Jena, Ouchi, 20, E Hind Dr, Waipio, 96726, wa, 20001118, 32, 206 5416673,4277734,2
+rec-284-org,   Morio, Douglas, 12, Ihiloa Pl, Kapalua, 96705, wa, 19531102, , 310 3157210,1628742,9
+rec-518-org,   Jena, Nahele, 19, Kainaliu Beach Trail, Paauilo, 85087, or, 19671108, 40, 213 6565528,8059422,1
+rec-91-org,   Nia, Ouchi, 7, Makahiki Way, Olowalu, 90280, nv, 20151017, , 602 8717513,2835934,5
+rec-137-org,   Cherie, Kawika, 11, Cavalry Rd, Volcano, 89121, az, 20151025, , 310 7279900,3406475,1
+rec-214-org,   Jena, Petersen, 73, Anapalau Pl, Volcano, 85206, hi, 19900103, 28, 423 0499225,8228316,1
+rec-258-org,   Ahonui, Olsen, 29, Ala Puawa Pl, Nanawale Estates, 85260, hi, 20210623, 8, 310 6891146,4076611,4
+rec-652-org,   Sebastian, Ouchi, 469, Princess Dr, Puako, 96745, tx, 19710417, 29, 253 3376750,8837188,7
+rec-430-org,   Jacob, Tam, 8, Bougainvillea Pl, Royal Kunia, 89124, or, 19571128, 22, 213 9672009,7933814,1
+rec-667-org,   Seiji, Lopes, 27, Ehupua Pl, Volcano, 96790, az, 19430814, , ,4228666,3
+rec-582-org,   Arielle, Low, 9, Holomua Pl, Wailua Homesteads, 85260, az, 20170915, 13, 602 6937792,7608799,7
+rec-275-org,   Jena, Mercado, 30, Aiona Ln, Pahala, 96747, hi, 19910713, , 602 6850242,9219368,0
+rec-122-org,   Katsuko, Ouchi, 2, Kuakini Hwy, Kihei, 89124, wa, 19760826, 33, 310 2095048,7729277,3
+rec-450-org,   Dillon, McKeague, 7, Center Pl, Volcano, 89124, hi, 19340305, 29, 213 5104473,6860089,5
+rec-403-org,   Shantelle, Ouchi, 12, Kamalei Pl, Lahaina, 90290, nv, 19650313, 34, 206 8899410,2536639,6
+rec-346-org,   Misue, Ouchi, 2, Akana, Kailua CDP, 92799, nv, 19830515, , 423 5368115,9598327,9
+rec-485-org,   Morio, Lucas, 6, Kaleo, Orchidlands Estates, 85087, or, 20000717, 34, 253 3732434,6437823,4
+rec-452-org,   Jena, Nahele, 5, Olalahina Pl, Holualoa, 89124, wa, 19860827, 34, 253 1147416,1756810,2
+rec-96-org,   Jena, McKeague, 7, Hiehie St, Ewa Villages, 85250, hi, 20040531, 33, 213 2332253,4404950,3
+rec-334-org,   Lurline, Barker, 75, Elm St, Tiki Gardens, 90255, az, 19680209, 30, ,7218707,2
+rec-78-org,   Kaydence, Kaneko, 36, Malahini Rd, Ahuimanu, 85075, , , 44, 253 8128811,4199637,7
+rec-184-org,   Elaine, Noelani, 17, Kamoamoa Hmstd Rd, Hawaiian Beaches, 85224, nv, 20021031, , 602 4886750,4100959,4
+rec-444-org,   Morio, Nomura, 51, Anapalau Pl, Volcano, 92705, hi, 19490624, , 206 1865076,4789601,4
+rec-650-org,   Jena, Hayes, 20, Anapalau Pl, Kapalua, 85285, , 19940531, 39, 602 5198407,2107269,9
+rec-317-org,   Jena, Petersen, 21, Ala Kipa St, Pukalani, 85260, hi, 19471107, 36, 602 2420467,6324294,1
+rec-581-org,   Teruo, Kwan, 18, Kaumaka Pl, Kaloko, 85027, tx, , 37, 480 6306905,3910144,8
+rec-250-org,   Misty, Miyamoto, 48, Kokomalei St, Honalo, 89117, nv, 19941015, 36, 213 9215767,5167503,5
+rec-609-org,   Paulo, Lai, 5, Pacific Heights Rd, Hilo, 85063, nv, 20181124, 27, 213 1059969,6558653,4
+rec-114-org,   Iki, Ouchi, 4, Alohea Ave, Puhi, 90290, nv, 19890628, 23, 213 5023493,2411341,1
+rec-471-org,   Justice, Petersen, 6, Hunnewell Pl, Kamaili, 90220, az, 19830212, 34, 602 9384773,2629045,0
+rec-658-org,   Jena, Ouchi, 32, Hoe St, Wahiawa, 85263, hi, 19250405, 36, 423 9738435,9155903,2
+rec-503-org,   Morio, Ouchi, 15, , Paukaa, 90290, az, 19860112, 25, ,6663264,2
+rec-373-org,   Cara, Hayes, 55, Duval St, Kalihiwai, 96705, tx, 19640203, 31, 480 2241930,4496465,8
+rec-526-org,   Jena, Kwon, 18, Bougainville Loop, Volcano, 89135, , 19830512, 31, 310 8080469,2598437,5
+rec-506-org,   Jeri, Hayes, 832, Nani kaka, Fern Forest, 85271, az, 19470301, 32, 602 3089160,2621144,5
+rec-588-org,   Chandra, Ouchi, 20, The Mall St, Waimanalo Beach, 90280, hi, 19710330, 37, 480 2707225,5704274,3
+rec-123-org,   Asae, Ouchi, 17, Hune-kai St, Waipio Acres, 85287, hi, 19690506, , 253 1443344,6099992,8
+rec-428-org,   Jena, Pikake, 13, Keopua St, Kihei, 85041, az, 19430422, 34, ,8610551,0
+rec-644-org,   Chizuko, Petersen, 239, Anolani St, Puako, 96745, wa, 19710527, 22, 423 7021456,3484521,6
+rec-682-org,   Sueko, Ouchi, 25, Anapalau Pl, Volcano, 90255, tx, 19780524, , 213 7594662,6823260,6
+rec-67-org,   Althea, Meyers, 31, Hunalewa St, Volcano, 89193, , , 12, 602 8664919,6275673,4
+rec-30-org,   Miranda, Duarte, 35, Hilala St, Waimea CDP, 85224, wa, 19950711, 37, 253 8019168,7515602,5
+rec-645-org,   Thelma, Lucas, 52, Lulua 'ina, Volcano, 85043, wa, 19631114, 20, 602 0475384,7172748,1
+rec-243-org,   Shogo, Noelani, 6, Naupaka Pl, Pakala Village, 96707, hi, , 35, 206 4918709,5074851,5
+rec-545-org,   Kristopher, Hayes, 3, Kidd St, Hanamaulu, 85290, hi, 19290125, 22, 206 5639413,2466602,1
+rec-146-org,   , Kwon, 55, E Hind Dr, Kapaa, 96745, hi, 20041101, 23, 602 2937753,8000718,3
+rec-127-org,   Jason, Ouchi, 18, Pahukula Pl, Kahaluu, 96746, hi, 19220801, 31, 310 6557343,2090480,6
+rec-483-org,   Jena, Hayes, 21, Cedar St, Koloa, 96747, nv, 19551102, 32, 808 4087847,2303339,9
+rec-540-org,   Jena, Ouchi, 17, Anapalau Pl, Puako, 85263, az, 19560912, 32, 423 7174223,2229296,8
+rec-11-org,   Loren, Chock, 3, Ka mea imi, Volcano, 96745, az, 19840502, 26, 808 8108547,4344288,5
+rec-657-org,   Kunio, Lopes, 30, Kiapu Pl, Volcano, 85054, hi, 19760505, 27, 480 4251943,5697618,0
+rec-286-org,   Bishop, Barker, 55, Punihaole Rd, Makawao, 85079, az, 19220809, 22, 480 6059399,5616706,0
+rec-152-org,   Domingo, Ouchi, 9, Kaumaka Pl, Napili-Honokowai, 90290, az, 19630815, 24, 206 5228332,2159633,2
+rec-501-org,   Jenny, Lane, 37, Anapa St, Volcano, 89133, az, 19310609, , 253 9518238,5230627,6
+rec-371-org,   Lilikoi, Ouchi, 10, Laimi Rd, Royal Kunia, 85263, nv, 19370918, 30, 480 3770662,6697235,4
+rec-89-org,   Jena, Uemura, 10, N Kukui St, Volcano, 90274, hi, 19630823, 26, ,2812210,1
+rec-57-org,   Kaily, Ouchi, 30, Noeau St, Kaiminani, 90255, hi, 19671209, , 602 4612783,2216556,3
+rec-666-org,   Oliana, Kim, 4, Kamohoalii St, Kaumakani, 85245, , 19621109, 20, 480 7875985,3509827,1
+rec-504-org,   Jena, Ouchi, 95, Liliha St, Royal Kunia, 85075, hi, 19590426, , 602 7934826,1496292,7
+rec-423-org,   Kash, Duarte, 31, Kamehameha Iv Rd, Volcano, 90290, or, 19750409, 26, 310 7118815,2901643,7
+rec-654-org,   Lurline, Low, 60, Velez Rd, Olowalu, 96739, az, 20181203, 38, 253 1509780,1002856,5
+rec-301-org,   Johnson, Manuel, 73, Naupaka Pl, Puako, 90274, nv, 19631204, 34, 480 1844100,2332353,3
+rec-386-org,   Kiyoko, McKeague, 5, Kamoamoa Hmstd Rd, Napili-Honokowai, 90270, or, 19490331, , 310 8922339,7175059,5
+rec-464-org,   Domingo, Cortez, 96, Pharis Pl, Keokea, 89173, tx, 19740603, 38, 310 0190287,6539287,3
+rec-593-org,   Stacy, Araki, 39, , Laie, 85260, hi, 19880529, 12, 206 7832559,9246390,3
+rec-543-org,   Russell, Lopes, 5, State Highway 64, Schofield Barracks, 96708, nv, 20060205, 31, 808 8340149,3691804,5
+rec-289-org,   Jena, Jacobs, 4, Hema Pl, Kualapuu, 85224, , 20190929, , 480 1765239,1999945,1
+rec-198-org,   Jena, Alohi, 47, Anapalau Pl, Paauilo, 96746, hi, 19901120, 22, 602 0224918,9658044,6
+rec-446-org,   Jena, McKeague, 7, Ernest St, Kahaluu, 92711, nv, 19201109, , 213 9721364,9868753,6
+rec-199-org,   , Hayes, 193, Kuahono St, Pepeekeo, 89139, hi, 19760920, , 808 1349391,5686649,2
+rec-244-org,   Willie, Ouchi, 7, Kaihiaku St, Launiupoko, 85275, wa, 20100527, 30, 206 4880650,7879934,4
+rec-583-org,   , Alebana, 45, Upper St, Keokea, 90290, or, 19690401, , 423 9174258,7028949,8
+rec-507-org,   Domingo, Hayes, 3, A'eloa, Pakala Village, 85223, hi, 19901030, , 423 5388533,7839647,7
+rec-188-org,   Jena, Petersen, 32, Kaluanui Rd, Fern Acres, 85287, , , , 310 4753098,6635148,4
+rec-519-org,   Marita, Ouchi, 497, Ehupua Pl, Pakala Village, 96777, ny, 19440816, 33, 602 3128465,1918389,8
+rec-509-org,   Haruo, Ouchi, , Peter Buck St, Volcano, 96751, hi, 19250710, 31, 423 3698822,5466799,7
+rec-163-org,   Jeri, Barker, 32, Kaumaka Pl, Makawao, 90290, hi, 20110718, 22, 602 7197205,7149720,1
+rec-622-org,   Jena, Lokela, 124, Kipu Pl, Volcano, 92705, az, 19841214, 9, 213 6929650,5215318,6
+rec-193-org,   Jena, Barker, 2, Lava Rd, Hanalei, 96746, nv, 20110112, 30, 808 9592777,7265262,7
+rec-669-org,   Jena, Koki, 806, Ihiloa Pl, Waipahu, 85036, az, 20120610, 35, 423 1039082,6103387,7
+rec-90-org,   Jeri, Cortez, 13, Hanalima Pl, Makena, 85001, hi, 19720914, 35, 206 8593194,4904393,1
+rec-435-org,   Misty, Noelani, 3, Walina St, Kaumakani, , az, 20121014, , 480 8337897,9360233,1
+rec-23-org,   Jena, Kane, 22, Aleo Pl, Hawaiian Ocean View, 85075, nv, 19280427, 31, ,8137546,7
+rec-12-org,   Jena, Hayes, 36, Ihiloa Pl, Ewa Villages, 89130, wa, 19991223, , 480 7552965,6769300,5
+rec-495-org,   Sierra, Shimabukuro, , Lincoln Ave, Waipio, 92711, az, 19690911, 34, 213 5687942,9721203,5
+rec-162-org,   Clarissa, Kaneko, 17, Vaessen Ct, Kaiminani, 96726, or, 20210328, 33, ,9075502,4
+rec-260-org,   Misayo, Moses, 15, Ipo Pl, Wheeler AFB, 92705, az, 19880520, 21, 480 4996803,4578278,9
+rec-311-org,   Kian, Low, 13, Wailupe Pl, Tiki Gardens, 89116, ny, 19490525, 34, 480 8193630,8379739,6
+rec-375-org,   Keila, Raymond, 10, Paine Cir, Kailua CDP, 85232, nv, 19240917, 33, 602 3797687,4200171,4
+rec-632-org,   Hoomana, Mercado, 17, Palimalu Rd, Kekaha, 85250, hi, 19361024, 34, 213 8589770,3979865,7
+rec-453-org,   Banyan, Lopes, 47, Nahua St, Volcano, 85266, nv, 19910729, , 480 5732912,2633983,1
+rec-332-org,   Jena, Nalani, 14, Keopua St, Waipio, 85281, nv, 19711114, 10, 808 8359761,2543839,8
+rec-8-org,   Jena, Ouchi, 57, Kaumaka Pl, Wainaku, 90290, , 19470703, 25, 310 1772184,6941256,7
+rec-280-org,   Walter, Hayes, 106, Kaleimamahu St, Pakala Village, 89124, hi, 20170527, 30, 423 9796937,2081364,1
+rec-249-org,   Jena, Nakao, 30, Kaleikini Way, Wailua, 96701, , 19820113, 41, 213 2613850,4287139,4
+rec-118-org,   Keandra, Ouchi, 46, Hunnewell Pl, Volcano, 85002, hi, 19830918, 23, 602 8320934,2151135,4
+rec-147-org,   Taliyah, Ouchi, 9, Naupaka Pl, Makawao, 96731, az, , , 253 8293921,7763148,7
+rec-587-org,   Domingo, Hayes, 38, Anapalau Pl, Tiki Gardens, 85241, nv, 19650225, 31, 602 4958136,4032055,2
+rec-82-org,   Jena, Ouchi, 13, Ala Kipa St, Wailua Homesteads, 90209, nv, 19450619, 35, 310 9765000,9799471,3
+rec-497-org,   Misayo, Ouchi, 7, N Kukui St, Tiki Gardens, 90290, , 19390306, , 480 3378635,3011826,6
+rec-209-org,   Alea, Ouchi, 22, Bougainville Loop, Tiki Gardens, 85260, az, 19880510, 26, 310 2363023,3375516,3
+rec-572-org,   Selena, Hayes, 40, Amau St, Volcano, 96791, nv, , 13, 310 0322978,8100204,9
+rec-238-org,   Kapono, Ouchi, 180, KuLopaka, Volcano, 89121, az, 19740918, 19, 602 2267769,8648271,6
+rec-115-org,   Kainani, Kwon, 6, Homestead Rd, Volcano, 85250, , , 28, 602 5495522,2154013,7
+rec-352-org,   Kendra, Ouchi, 21, Anapalau Pl, Lawai, 90220, wa, 19720718, 36, 480 7025136,6901066,8
+rec-32-org,   Morris, KalÄkaua, 4, , Volcano, 85041, nv, 19850706, 24, 808 0754706,7177251,0
+rec-530-org,   Jena, Kim, 55, Apaki St, Volcano, 85224, hi, 19710822, 31, 602 2701499,6714525,2
+rec-356-org,   Nohealani, , 5, Anapalau Pl, Naalehu, 89193, az, 19740514, 29, 206 7772885,6077426,9
+rec-139-org,   Hector, Roberts, 38, Naupaka Pl, Volcano, 85064, nv, 20190820, , 206 4656349,6803878,8
+rec-307-org,   Michie, Ouchi, 22, Kipu Pl, Kaneohe Base, 90290, az, 19351204, 26, 213 2540271,2987519,5
+rec-672-org,   Kaydence, Correa, 41, , Waialua, 85259, nv, 19231110, 32, 602 4397957,6049081,0
+rec-112-org,   Jena, Cortez, 130, Naupaka Pl, Napili-Honokowai, 96738, or, 20051231, 26, 423 5367880,2909216,5
+rec-171-org,   Jena, Ouchi, 39, Kamalei Pl, Launiupoko, 85267, , 19320916, 21, 253 5196639,5257917,8
+rec-573-org,   Jacoby, Ouchi, 11, James Ave, Omao, 96785, az, 19291116, , 213 3684303,1607143,6
+rec-362-org,   Angel, Ouchi, 42, Makaweli St, Puako, 90290, nv, 20061231, 32, 480 8970813,6688766,2
+rec-434-org,   Donald, Noelani, 8, Yamada Ln, Kailua CDP, 85250, tx, 19380810, , 206 4162389,8312109,6
+rec-13-org,   Jena, Barker, 9, , Volcano, 85247, wa, 19590521, 40, 480 4671530,7339817,6
+rec-314-org,   Nikolai, Ouchi, 182, Uluweuweu Akau Pl, Volcano, 90249, az, 19910602, , 213 7499237,7832854,8
+rec-636-org,   Kazue, Barker, 19, Fort St, Hanalei, 85256, , 19330821, 8, 480 0295728,7914515,6
+rec-524-org,   Jena, McKeague, 22, Midpac School Rd, Volcano, 85237, ny, 19381206, 33, 602 1473650,6330355,0
+rec-361-org,   Garrett, Perreira, 13, Kai Kane Rd, Captain Cook, 85075, az, 19510308, 25, 206 1025446,5295569,9
+rec-97-org,   Kamaile, Hayes, 4, Kalalea St, Volcano, 96726, or, 20021206, , 808 1495459,7976729,5
+rec-339-org,   Sasha, Ouchi, 151, Kuakini Hwy, Kapalua, 85012, nv, 19981005, 33, 808 9810760,9238546,5
+rec-481-org,   Kapono, Yamasaki, 85, Poni Moi Rd, Waikoloa Beach Resort, , hi, 20000714, 33, 206 7565180,8900756,2
+rec-269-org,   Cristina, Ouchi, 7, Nikolo St, Volcano, 90274, hi, 19200211, 26, 213 0917426,7571450,2
+rec-592-org,   Jena, Cortez, 11, Anolani St, Volcano, 89180, tx, 19240310, 32, 480 3086219,4996075,0
+rec-630-org,   Koon, Ouchi, 3, Macadamia Pl, Hilo, 96740, wa, 19570511, 22, 206 9272893,6403405,5
+rec-6-org,   Kellyann, Ouchi, 5, Keopua St, Volcano, 85224, hi, 19630108, , 206 8711991,9251403,3
+rec-406-org,   Codey, Morikawa, 16, Naupaka Pl, Puako, 85043, tx, 19241125, 31, 480 5918132,8950017,2
+rec-613-org,   Nohealani, Hayes, 54, Ahana St, Honalo, 90290, nv, 20041030, 29, 253 9271003,9491343,2
+rec-33-org,   Melveen, Hayes, 73, Ihiloa Pl, Royal Kunia, 85002, az, , 17, 808 8673309,7695986,9
+rec-460-org,   Misayo, Ouchi, 34, Chaplain Ln, Olinda, 85283, az, 19371028, 28, 253 0979008,2699006,2
+rec-158-org,   Jena, Hayes, 68, Thatcher Ct, Kaaawa, 90280, az, 19960728, , 213 3885956,6017246,4
+rec-570-org,   Morio, Ouchi, 2, Panui St, Puhi, 89122, , 20030304, 28, 423 7064286,3929111,5
+rec-68-org,   , Newman, 13, Noeau St, Fern Forest, 85087, , 19600215, 27, ,1795336,0
+rec-442-org,   Tea, Ouchi, , S Kahiwa Pl, Manele, 85250, nv, 20150202, 32, 206 3117319,5455981,8
+rec-409-org,   Amelia, Ouchi, 29, Coyne St, Keaau, 90212, wa, 19870226, 12, 253 5451276,9185386,0
+rec-36-org,   Jena, Vincent, 18, Ihiloa Pl, Waipio, 85260, hi, 20120108, 35, 213 3074234,7041036,8
+rec-412-org,   Duke, Nahele, 9, Palamea Ln, Tiki Gardens, 96747, az, 20190721, 36, 480 6779086,4221238,7
+rec-343-org,   Kristopher, Kaai, 71, Kaua St, Volcano, 96746, az, 20000616, 21, 480 2386897,3710768,8
+rec-145-org,   Asako, Manuel, 48, Liliha St, Napili-Honokowai, 90212, wa, 19500528, 27, 480 2653800,1318091,3
+rec-108-org,   Jewel, Low, 2, Kahauiki Pl, Kawela Bay, 89121, az, 19941202, 27, 808 1577259,5094332,7
+rec-220-org,   Misayo, Ouchi, 31, Keola St, Tiki Gardens, 85041, nv, 19630924, 28, 310 6537499,7303945,2
+rec-529-org,   Justice, Hayes, 66, Thatcher Ct, Paauilo, 85075, az, 19540411, 29, 602 5906287,8009427,5
+rec-341-org,   Sydni, Ouchi, 437, Huehue Ranch Rd, Volcano, 85042, az, 19580708, 32, 808 6636334,9444684,6
+rec-469-org,   Jena, Ouchi, 49, Kulamanu Pl, Kalaeloa, 90270, , 19631107, 34, 480 9495436,3071508,1
+rec-463-org,   Tawny, McKeague, 13, Ulupono St, Puako, 85028, hi, 19921118, , 310 4064091,9134326,1
+rec-109-org,   Marcie, McKeague, 58, Lincoln Ave, Kaumakani, 96762, nv, , 27, 808 2852765,6647964,3
+rec-678-org,   Jena, Ouchi, 40, Peter Buck St, Keokea, 89131, , 19850802, 40, 206 8475539,2568538,1
+rec-213-org,   Jena, Lopes, 16, Liliha St, Hawi, 96745, nv, 19940503, 25, 602 7260928,5510018,6
+rec-489-org,   , Barker, 125, Maluhia Rd, Volcano, 89130, tx, 19761213, 30, 253 1094392,7173059,5
+rec-408-org,   Tihani, Matthews, 21, Laau St, Olinda, 85252, hi, 20060411, 29, 213 3674870,5223995,7
+rec-102-org,   Jayme, Ushijima, 22, Ualani St, Puako, 85216, tx, 19490923, , 808 2137122,5577288,8
+rec-616-org,   Jena, Lopes, 1625, Peter Buck St, Kahaluu, 96726, az, 20051015, , 602 6592837,3587376,6
+rec-619-org,   Perry, Duarte, 21, Morris Ln, Paauilo, 96715, hi, 20000525, , 310 3401206,6700845,8
+rec-117-org,   Jena, Petersen, 228, Bougainville Loop, Pakala Village, 89109, nv, 19291030, 30, 253 8247769,6868640,6
+rec-605-org,   , Hayes, 52, Keopua St, East Kapolei, 85205, hi, 19320114, 36, 206 6561548,1509327,1
+rec-329-org,   Misty, Barker, 54, Hind Iuka Dr, Waimea CDP, 89170, hi, , 26, 206 4835611,4926095,5
+rec-192-org,   Roxanne, Barker, 175, Morris Ln, Haiku-Pauwela, 85250, az, 19710904, , 808 6528516,6084594,5
+rec-257-org,   Avamarie, Haleakala, 11, Kaumaka Pl, Volcano, 90293, wa, 20200414, 30, 423 3173699,3411107,0
+rec-344-org,   Jena, Hayes, 24, Kalaunu St, Mililani Mauka, 96747, or, 20190923, 24, ,3679435,4
+rec-599-org,   Misayo, Ka'ahumanu, 1276, Naupaka Pl, Schofield Barracks, 90255, wa, 19710722, 29, 213 1685307,1964342,1
+rec-318-org,   Jena, Ouchi, 8, Anapalau Pl, Volcano, , az, , 9, 206 7500381,2496941,9
+rec-345-org,   Banyan, Ouchi, 15, Notley St, Volcano, 85069, az, 19300406, 11, 808 9007327,9034457,2
+rec-512-org,   Shyann, Cortez, 4, Lewa Lani Pl, Waimanalo, 89124, or, 19511121, , ,1940590,2
+rec-578-org,   Jena, Carter, 82, Kalakau St, Fern Forest, 85016, az, 19911103, , 423 0951611,4849365,4
+rec-101-org,   Bishop, Kodama, 4, Hoolokahi St, Makawao, 90290, az, 19451120, 31, 602 9501127,3761101,6
+rec-290-org,   Talan, Hayes, 35, Kaekeeke Way, Pepeekeo, 85043, az, 19360702, 9, 206 4852434,5200960,4
+rec-550-org,   Tawny, Ouchi, 14, Pakohana St, Volcano, 96747, az, 20200831, 25, 253 3294161,4502083,3
+rec-221-org,   Morio, Ouchi, 124, Homestead Rd, Volcano, 90290, az, 19651231, , 310 7867542,6683773,0
+rec-493-org,   Misayo, Pikake, 4, Ema Pl, Paauilo, 96746, hi, 19560320, 23, 253 2686288,8694332,7
+rec-172-org,   Kristopher, Ouchi, 2, Pali Hwy, Laie, 90277, , 19800131, 25, 808 2103442,2190749,3
+rec-355-org,   Barbara, Guerrero, 17, Sonoma St, Volcano, 85216, , 19431114, 30, 480 7999232,8563297,9
+rec-190-org,   Justice, Harrison, 15, Pukoo Pl, Makaha, 90290, hi, 20060612, 38, 206 8376263,2549489,5
+rec-523-org,   Misayo, McKeague, 37, Ailani, Volcano, 85250, , 19961216, 32, 253 9913062,4806961,3
+rec-478-org,   Banyan, Kaneko, 69, Lippia Loop, Kihei, 96726, hi, 19570322, 30, 206 7248122,5949365,3
+rec-641-org,   Elmer, Imamura, 13, Kalaimoku St, Puako, 96746, tx, 19410408, 22, 808 8077680,6863819,7
+rec-285-org,   Arielle, Mercado, 4, Kaumaka Pl, Tiki Gardens, 90245, nv, 19680929, 25, 310 1627845,4263798,0
+rec-62-org,   Elaine, Kaneko, 17, Hapuna Pl, Wahiawa, 92712, hi, 19431231, 36, 253 8538605,6642574,4
+rec-388-org,   Jena, Hayes, 203, Kipu Pl, Paauilo, 90245, az, 19380331, 35, 310 7491994,6991994,1
+rec-433-org,   Jayme, Ouchi, 7, Kaheka St, Kaumakani, 96778, az, 19770324, 27, 310 7960383,7837823,7
+rec-595-org,   Morio, Amaral, 3, Ohialoke St, Volcano, 85041, hi, 19400504, 32, 310 3530071,6101065,4
+rec-17-org,   Jena, Ouchi, 7, Anapalau Pl, Volcano, 96770, az, 19250424, , 253 7401132,1766871,1
+rec-95-org,   Jena, Kaneko, 20, Anapalau Pl, Volcano, 85224, az, 19911119, , 602 5793796,1953161,1
+rec-64-org,   Jonas, Hayes, 106, , Kailua CDP, 85230, wa, 19440606, 26, 206 5085615,7715239,0
+rec-80-org,   Rebecca, Richardson, 21, Anapalau Pl, Honokaa, 89121, az, 19620906, 9, 423 1952595,7035277,8
+rec-29-org,   Jena, Franco, 85, Williams St, Kahaluu, 85222, , 19400914, 27, 253 7783549,1938396,9
+rec-531-org,   Kyra, McKeague, 35, Papalalo Pl, Puako, 89191, az, 19620409, 31, 206 1039715,5183571,5
+rec-651-org,   Domingo, Lopes, 64, Narcissus Pl, Volcano, 85075, nv, 19680301, 27, 480 6987032,7830122,3
+rec-53-org,   Saige, Kaneko, 4, Malapua Pl, Waialua, 85250, , 19670705, 24, 423 4890152,3677613,4
+rec-299-org,   Tricia, Ouchi, 1188, Bravo Rd, , 92702, or, 19430720, 29, 206 9067273,2678452,0
+rec-634-org,   Amelia, McKeague, 4, Ka Hiwa, Volcano, 90290, nv, 19690108, 34, 206 0071607,2442948,2
+rec-100-org,   Roxanne, McKeague, 8, Kaumaka Pl, Wahiawa, 85075, hi, 19760603, 37, 310 7234656,6193248,8
+rec-37-org,   Kaeo, Lopes, 74, Ainakea Way, Wailuku, 89124, hi, 19220730, 33, 423 2865538,7825824,7
+rec-176-org,   Thomas, Hanson, 10, Alamea, Puako, 89170, az, 19830405, , 310 0243603,2084497,0
+rec-22-org,   Krysta, Ouchi, 102, Mokunoio Pl, Kealakekua, 96707, wa, 19331129, 23, ,3370692,9
+rec-684-org,   Thomas, Ouchi, 40, Halehoola Pl, Makawao, 96746, hi, 19970523, 35, 480 5689012,7825807,8
+rec-54-org,   , Hamasaki, 49, Lincoln Ave, Kilauea, 85075, wa, 19410604, , ,9553083,3
+rec-675-org,   Dean, McKeague, 3, Leiloke Dr, Volcano, 96755, az, 19251225, 30, 480 7697767,9451191,0
+rec-232-org,   Vickie, Duncan, 28, Kipu Pl, , 85009, hi, , 28, 213 9083203,2262171,0
+rec-399-org,   Tatsuo, Nahele, 16, 10th Ave, Volcano, 90274, az, , 24, 480 5067921,3540070,5
+rec-203-org,   Fujie, Ouchi, 39, Kipu Pl, Ualapue, 90212, az, 19220114, 29, 310 4115225,2003925,2
+rec-490-org,   Shogo, McKeague, 20, Onaha St, Kapalua, 90277, az, 19780428, , 480 7228413,8934589,0
+rec-662-org,   Domingo, Miguel, 64, Pauma Pl, Volcano, 85224, az, 19300908, 36, 206 0359528,9738744,9
+rec-74-org,   Justice, Hicks, 55, Noeau St, Wahiawa, 89102, az, 19261205, 21, 602 8835501,3881284,5
+rec-696-org,   Jena, Petersen, 5, Mahani Loop, Pukalani, 90201, nv, 19660211, 39, 213 6036425,6177624,7
+rec-576-org,   Thelma, Noelani, 74, Pulehu St, Wahiawa, 85260, hi, 20080516, 24, 480 3072841,9224897,8
+rec-342-org,   Alyssa, Kaneko, 4, E Hind Dr, Hawaiian Ocean View, 85086, hi, 19881104, 32, 206 3158221,9774199,6
+rec-98-org,   Jena, Reynolds, 109, Kipu Pl, , 89126, az, 19990916, 33, 310 6916793,6473260,8
+rec-612-org,   Jena, Ouchi, 203, Montgomery Dr, Kahaluu, 90290, hi, 19720527, 23, 310 8978690,7277894,2
+rec-604-org,   Alena, Noelani, 18, Shower Pl, Volcano, 90290, , 19941126, 32, 602 2233456,5686327,1
+rec-454-org,   Jena, Noelani, 26, Anapalau Pl, , 85224, nv, , , 206 3315068,6015712,4
+rec-437-org,   Selena, Hayes, 42, Lelekepue Pl, Makawao, 92712, hi, 20210223, 12, 808 8574416,6810759,1
+rec-261-org,   Misayo, Petersen, 27, Kawaihae Pl, Volcano, 85285, wa, 20020917, 29, 310 8686420,5611086,7
+rec-596-org,   Jaclyn, Ouchi, 65, Kipu Pl, Volcano, 85030, nv, 19560331, 31, 253 2811253,6778358,8
+rec-71-org,   Jena, Hayes, 8, Anapalau Pl, Hauula, 96746, az, 20040519, 32, 213 7594100,6024667,0
+rec-602-org,   Kaeo, Douglas, 2, Waikii Rd, Volcano, 85003, or, 19320112, 31, 808 7309406,5018758,0
+rec-253-org,   , Ouchi, 5, Oilipuu Pl, Waianae, 85212, or, 19591206, 40, 602 3562158,2169805,8
+rec-19-org,   Jena, McKeague, 53, Anapalau Pl, Fern Forest, 85237, az, 19851116, 33, 213 2036014,4380764,5
+rec-586-org,   Shogo, Roberts, 227, Ihiloa Pl, Volcano, 96765, az, 19471110, 31, 310 0759214,6383546,8
+rec-24-org,   Kristin, Ouchi, 549, Tampa Dr, Nanakuli, 85211, hi, 19351017, , 253 1613522,4080227,6
+rec-687-org,   Sierra, Kagawa, 21, Niele Pl, Waihee-Waiehu, 90290, wa, 19920204, 31, 310 5958116,3030751,6
+rec-180-org,   Rebecca, Henry, 6, Matzie Ln, Volcano, 85211, , 20190519, 35, 213 3598876,9483898,1
+rec-431-org,   Kristopher, , 45, Anapalau Pl, Wahiawa, 85224, hi, 19460910, 27, 310 1757633,8611251,5
+rec-21-org,   Justice, Ouchi, 10, Ala Makani Way, Volcano, 90290, , 19560914, 33, ,4738938,5
+rec-539-org,   Ember, Yadao, 179, Pakini St, Papaikou, , nv, 20130806, 26, 480 6307391,5971089,7
+rec-288-org,   Lowell, Andrews, 2, Ehupua Pl, Napili-Honokowai, 92782, hi, 19200609, 25, 808 7950837,7972108,0
+rec-659-org,   Banyan, Muramoto, 7, Kaeleloi Pl, Kahaluu-Keauhou, 96743, az, 20000405, 30, 253 5389093,1934520,7
+rec-549-org,   Meleana, Low, 60, , Keaau, 85021, , 20030114, 24, 808 5907911,2140335,6
+rec-462-org,   Walter, Inoa, 3, Poola St, Volcano, 85044, az, 20061016, , 423 4771905,9045464,7
+rec-313-org,   Jermaine, Mizuno, 10, Kipu Pl, Royal Kunia, 85227, , 19610906, 24, ,2754617,5
+rec-135-org,   Morio, Ouchi, 7, Ehupua Pl, Volcano, 85078, az, 20180110, 22, 808 0745130,7891300,3
+rec-134-org,   Morio, Ouchi, 20, Ipuai St, Iroquois Point, 85086, hi, 19810520, 25, 480 5951343,3365146,2
+rec-321-org,   Althea, Ouchi, 23, Thatcher Ct, Keokea, 96773, az, 19810329, 29, ,5689561,1
+rec-390-org,   Tsutomu, MÄhoe, 95, Kaumaka Pl, Kamaili, 85043, az, 19600501, 28, 213 8410697,5740811,6
+rec-148-org,   Kristopher, Ellis, 39, Tampa Dr, Kahaluu, 92728, nv, 19570627, 28, 808 2237585,3834820,7
+rec-132-org,   Tatum, Petersen, 73, Kipu Pl, Princeville, 85250, az, 19590729, 29, ,8409091,6
+rec-79-org,   Hilinai, Ouchi, 56, Anapalau Pl, Naalehu, 96764, hi, 20120722, 33, ,8933393,0
+rec-300-org,   Jena, Soong, 35, Ala Aolani St, Nanawale Estates, 96746, nv, 19370115, 27, ,3918398,8
+rec-191-org,   Jena, Anuenue, 31, Kawaihae Pl, Lahaina, 90290, nv, 19820406, 22, 423 9889706,8090904,5
+rec-656-org,   , Ouchi, 25, Wiliama Pl, Kalaeloa, 96745, hi, 20170826, 9, ,1878490,8
+rec-186-org,   Angel, Fuller, 65, Kaaahi Pl, Paauilo, 85266, wa, 20171209, 15, 480 5654517,3279409,6
+rec-513-org,   Sierra, Manuel, 6, Iluna Pl, , 90290, hi, , 32, 423 8757641,5632111,6
+rec-274-org,   Xzavier, Tam, 44, Beckwith St, Puako, 89121, az, 19940519, , 602 8278054,2697985,1
+rec-103-org,   Jena, Petersen, 12, Anapalau Pl, Volcano, 85010, az, 19950513, 34, 808 3309455,6430990,5
+rec-168-org,   Kristopher, Nishioka, 6, Palm Dr, Mililani Mauka, 89133, az, 20130705, 25, 423 3866169,7168809,1
+rec-116-org,   Jena, Lane, , Plumbago Ct, Waikoloa Village, 89124, az, 20000206, , 206 1656333,8924726,4
+rec-113-org,   Jena, Lopes, 24, Kaumaka Pl, Kula, 96746, , , 32, 253 9218926,1579773,4
+rec-594-org,   Nadine, Hayes, 20, Mao Ln, Wheeler AFB, 85216, , 20120210, 33, 808 7652887,3983596,9
+rec-589-org,   Miyeko, Aquino, 92, Walina St, Napili-Honokowai, , hi, 19951116, 21, 602 4662135,3287356,2
+rec-369-org,   Jena, Ouchi, 30, Kipu Pl, Volcano, 85079, , , 36, 213 9880656,6808006,8
+rec-546-org,   Weston, Awai, 63, Keopua St, Keokea, 85072, az, , 35, 253 2624282,8570295,8
+rec-252-org,   Mamo, Nishimoto, 112, Ala Moana Blvd, Waipio, 92705, nv, , 27, 310 0604183,4801408,9
+rec-400-org,   Sheryl, Hayes, 62, Ala Kipa St, Volcano, 89135, az, , 29, 206 0228426,4310359,5
+rec-262-org,   Lora, Paul, 906, Ihiloa Pl, Volcano, 96747, az, , 12, 213 3370219,8917278,1
+rec-174-org,   Jena, Aloiki, 93, , Kailua CDP, 85284, hi, 19720220, , 602 7144516,1892345,3
+rec-18-org,   Shaun, Ouchi, 63, Anapalau Pl, Waimalu, 92707, hi, 19870118, 34, 602 5597850,1857471,5
+rec-547-org,   Jena, Araki, 255, Moreira St, Hanamaulu, 96715, hi, 19250915, 28, 310 3096650,7593736,9
+rec-499-org,   Misayo, Ouchi, 17, Bravo Rd, Puako, 96746, az, , 36, 206 2916958,3687176,9
+rec-77-org,   Stuart, Brooks, 264, Kipu Pl, Kukuihaele, 89191, hi, 19280416, 9, 602 6462763,3505520,5
+rec-521-org,   Banyan, , 6, Nuuanu Pali Dr, Papaikou, 85224, nv, 19840416, 36, 480 0942532,5599296,1
+rec-205-org,   Jena, Iha, 1800, Alekanekeio, Kahaluu, 85250, az, 20211223, 4, 423 4665222,3530219,0
+rec-248-org,   Jena, Noelani, 26, Hokiokio Pl, Kailua CDP, 89124, az, 19940901, 32, 213 6758601,6799602,4
+rec-34-org,   Rachel, Leilani, 1582, Ahana St, Kealakekua, 90290, az, 19890711, 32, 310 0445554,8835146,5
+rec-598-org,   Devon, Ouchi, 13, Anapalau Pl, Tiki Gardens, 85201, hi, 20080103, 31, 480 8816845,1904060,7
+rec-584-org,   Halia, Hayes, 34, Kipu Pl, Kailua CDP, 85075, hi, 19651024, 30, 423 9055553,9004004,8
+rec-533-org,   Jena, Nelson, 3, Kealakekua, Tiki Gardens, 85043, az, 20200504, 31, ,5388163,1
+rec-432-org,   Kaydence, Ouchi, 73, Bougainville Loop, Paukaa, 96746, hi, 19961219, 27, 253 7419962,7113647,3
+rec-354-org,   Sierra, Kiele, 7, Paul Cir, Wailua, 96747, az, , 26, 602 9349761,3141254,6
+rec-364-org,   Dolly, Nalani, 13, Naupaka Pl, Launiupoko, 96747, hi, 19410111, 33, 423 4447624,6130019,4
+rec-511-org,   Kristopher, Ouchi, 142, Lincoln Ave, Volcano, 85237, or, 20010613, 31, 423 0697740,6190035,5
+rec-140-org,   Laila, Kane, 27, , Volcano, 96747, hi, 19460819, 25, 808 3878642,1441478,1
+rec-283-org,   April, Barker, 9, Kamalalehua Pl, Paia, 85075, wa, 20080604, 29, 310 4313810,6591136,4
+rec-522-org,   Jena, A'ala, 778, Amau St, Volcano, 85224, az, 19981029, 27, 480 6853705,9730107,3
+rec-461-org,   Jena, Lim, 14, Neville Way, Hana, 85043, hi, 19550905, 28, 602 1443066,9917618,5
+rec-426-org,   Kenzie, Ouchi, 25, Macdonald Pl, Volcano, 90290, nv, 19640222, , 310 6975610,6189973,6
+rec-340-org,   Leia, Ouchi, 25, Ehupua Pl, Kalaeloa, 90290, az, 19350313, 31, 602 7980891,4237977,2
+rec-623-org,   Jena, McKeague, 24, Luna Pl, Paauilo, 85283, az, , 26, 808 6371455,8154295,4
+rec-296-org,   Jena, Ouchi, 3, Naupaka Pl, Volcano, 85290, hi, 19470410, 28, 423 0698296,2711404,4
+rec-627-org,   Jena, Teramoto, 5, Crater Rim Rd, Makawao, 96746, or, , 37, 253 3291157,6264571,6
+rec-579-org,   Domingo, , 15, Lelekepue Pl, Volcano, 89133, hi, , 25, 423 2877971,7898560,7
+rec-175-org,   Banyan, Hayes, 33, Liliha St, Waihee-Waiehu, 89124, , 19701029, 31, 310 3543393,4129681,3
+rec-322-org,   Claudette, Mana'o, 2, Mokunoio Pl, Volcano, 85268, hi, 19280803, 20, 602 5666788,4950772,1
+rec-141-org,   Domingo, Hayes, 169, Republican St, Waimanalo, 85216, , 19371217, 33, 206 4877700,9967849,3
+rec-402-org,   Meleana, Jimenez, 8, Waikii Rd, Volcano, 90290, , , , 423 7626880,5374534,1
+rec-177-org,   Tianna, Ouchi, 38, Ahuli Pl, Pupukea, , wa, 20001213, 34, 310 4441410,6876197,7
+rec-294-org,   Melanie, Char, 12, Ahana St, Volcano, 85015, hi, 19770616, , 423 7400994,1655008,5
+rec-552-org,   Angel, Hayes, 21, Uhini Pl, Orchidlands Estates, 85022, , 20080111, 23, 310 1338899,4275121,8
+rec-227-org,   Morio, Noelani, 3, Homestead Rd, Mauna Loa Estates, 96745, , 20200427, 23, 480 7292295,1600782,9
+rec-126-org,   Misayo, Shiraki, 16, Kamalei Pl, Punaluu, 89121, nv, 20181025, 10, 253 7739927,4564930,1
+rec-455-org,   Banyan, Ouchi, 163, Kipu Pl, Kurtistown, 85043, , 19350509, , 423 3251814,6681074,6
+rec-271-org,   Reginald, Ouchi, 31, , Volcano, 85283, az, 19440928, 31, 253 9795746,1960030,1
+rec-320-org,   Jena, Sanders, 40, Huea Pl, Kaumakani, 90290, , 19310203, 26, 310 7701594,5984647,2
+rec-559-org,   Hoomana, Mau, 7, Tulip Pl, Wheeler AFB, 96746, nv, 20090309, 28, 253 8178739,6841808,8
+rec-569-org,   Mamo, Ouchi, 62, Kahale, Paia, 85224, or, 20010904, 8, 480 7860992,8207891,5
+rec-159-org,   Misayo, Ouchi, 14, Kauluwela Pl, Puako, 90212, , 20020420, 31, 206 8449169,2050768,3
+rec-415-org,   Evangeline, McKeague, 139, Jackson Pl, Volcano, 85271, hi, 19490920, 27, 602 1828694,5929369,6
+rec-494-org,   Misty, Hayes, 36, Papaya Pl, Kapalua, 85224, , , 31, 253 8528680,4081037,7
+rec-121-org,   Jena, Kalea, 756, Anapalau Pl, , 96733, az, 19450625, 30, 808 8069679,6427315,3
+rec-653-org,   Stacy, Fujikawa, 59, Kawaihae Pl, Volcano, 85211, hi, 19780813, , 253 1035780,3811278,7
+rec-456-org,   Jena, Low, 9, Kumukoa St, Kahului, 85275, , 19481026, 33, 206 8088525,5638734,1
+rec-661-org,   Justice, Petersen, 22, Pharis Pl, Kahaluu, 96747, az, 19890708, 29, 423 4822208,4557149,7
+rec-94-org,   Jena, Ngo, 10, , Hawi, 90290, az, 19671218, 35, 808 3781250,3858506,1
+rec-359-org,   Asako, Barker, 47, Kipu Pl, Kealakekua, 85296, az, 20180214, 31, 480 5562717,2837733,9
+rec-473-org,   Jewel, Kanoa, 112, Makiki Pl, Puako, 96746, hi, , 13, 480 8964545,9793789,4
+rec-397-org,   Nichole, Takeuchi, 477, , Kalaeloa, 85208, az, 19480406, 28, 480 7895390,7369233,4
+rec-679-org,   Domingo, Ngo, 12, Bougainville Loop, Volcano, 89138, az, 19840901, , 423 5984909,9197304,6
+rec-673-org,   Kristopher, Hew, 20, Anapalau Pl, Mauna Loa Estates, 96731, hi, 20080204, 10, 423 5155513,3912649,6
+rec-686-org,   Shogo, Andaya, 53, Kipu Pl, Volcano, 96745, hi, 19650602, 23, ,7977741,3
+rec-405-org,   George, Lucero, 85, Pili Aloha Pl, Volcano, 85078, wa, 20040706, 25, 480 8409887,2803948,3
+rec-178-org,   Misayo, , 6, Naupaka Pl, Mokuleia, 96745, , 20061004, 12, 602 2287976,8796493,9
+rec-445-org,   Elaine, Hayes, 25, Kaumaka Pl, Volcano, 85219, , 19371020, 29, 808 4186578,4487662,8
+rec-83-org,   , Ouchi, 35, Anapalau Pl, Kailua CDP, 96778, nv, 20090701, 38, ,9156895,0
+rec-207-org,   Morio, McKeague, 24, Kipu Pl, Volcano, 90245, nv, 19681101, 33, 423 1418586,6448684,6
+rec-479-org,   Shogo, Ouchi, 25, Kipu Pl, Hana, 85250, az, 19791123, , 206 3472905,8324463,9
+rec-488-org,   Talan, Hayes, 5, Sanders Cir, Volcano, 90290, or, 19430509, 31, 808 1520500,3044123,3
+rec-527-org,   Kristopher, Onishi, 2, Anapalau Pl, Keaau, 85285, hi, 20140905, 12, 310 8987637,8113259,5
+rec-695-org,   Jena, Low, 34, Robinson Ln, Volcano, 85248, wa, 19801110, 30, 310 9254389,1132501,3
+rec-480-org,   Jena, Barker, 40, Ihiloa Pl, Kahaluu, 90280, hi, 19691218, 37, 253 9448520,1530879,9
+rec-368-org,   Sebastian, Mercado, 24, Main St, Olinda, 96755, az, 19600131, 8, 213 2622334,5756272,0
+rec-259-org,   Misayo, Ouchi, 108, Waikii Rd, Princeville, 96732, nv, 19460820, 30, 602 9945313,6506526,6
+rec-51-org,   , Cortez, 39, Saddle Rd, Hawi, 90212, hi, 19680112, 26, 206 4281500,9765827,9
+rec-55-org,   Kristopher, Lopes, 10, Keopua St, Kaumakani, 85246, or, 19630217, , 253 7311848,4126613,2
+rec-420-org,   Hoomana, Barker, 35, Ala Hoku Pl, Wainaku, 85285, az, 19440817, 31, 480 9060404,3046522,5
+rec-674-org,   Jena, Barker, 6, Ihiloa Pl, Pakala Village, 85252, az, 19610419, 39, 213 4115640,6369155,4
+rec-45-org,   Dean, Holt, 45, Kapiwai Way, Hanapepe, 96773, az, 19820510, 37, ,4311184,0
+rec-557-org,   Carolina, Ouchi, 14, Woodlawn Dr, Volcano, 85216, or, 20140326, 23, 253 8898644,9548008,8
+rec-648-org,   Viola, Ouchi, 37, Anapalau Pl, Ewa Gentry, 85260, wa, , 29, ,3725249,8
+rec-49-org,   Gay, Hayes, 231, Panui St, Pakala Village, 90255, az, 20041030, 33, 602 4110017,7535503,3
+rec-555-org,   Roxanne, Ouchi, 15, N Kukui St, Kapaau, 89114, nv, 19221122, 11, ,2822893,5
+rec-467-org,   Sierra, Kaneko, 70, Kaumaka Pl, Keaau, 89124, or, 19661025, 30, 310 6480412,4674383,0
+rec-487-org,   Diego, Kaneko, 221, Lewa Lani Pl, Volcano, 96747, az, 19570202, 13, 213 0802320,3098868,8
+rec-256-org,   Jeri, Ouchi, 28, Oomano Pl, Paauilo, 90245, hi, , 29, 808 6151332,3476995,4
+rec-382-org,   Coleen, Hayes, 87, Paliku St, Puako, 85215, az, , 31, 310 6184911,5295636,8
+rec-211-org,   Nahele, Manu, 18, Kaumaka Pl, Nanawale Estates, 96763, az, 19691112, 38, 206 8081192,5622318,0
+rec-182-org,   Morio, Ouchi, 9, Macdonald Pl, Kalaeloa, 96747, nv, 19380902, 39, 310 6854542,4065111,0
+rec-16-org,   Justice, Correa, 19, Kaumaka Pl, Puako, 85224, az, 19410707, , 808 8028287,3852055,3
+rec-85-org,   Blaze, Ouchi, 13, Tramway Rd, Paauilo, 90290, hi, 19231021, 29, 206 9152027,8549403,1
+rec-72-org,   Maydeen, Ouchi, 58, N Kukui St, Fern Forest, 85228, tx, 20130831, , 213 7854669,4531883,0
+rec-233-org,   Kristopher, Ouchi, 18, Mao Ln, Volcano, 85043, az, 20140526, 37, 213 8055427,4670725,1
+rec-245-org,   Jeri, Ouchi, 232, Ala Kapuna St, Volcano, 96781, hi, , 29, 213 4355121,2133212,3
+rec-264-org,   Kamaile, Natividad, , N Kukui St, Kaumakani, 85027, az, 19240417, , 206 7830210,6296096,3
+rec-459-org,   Debbie, Ouchi, 55, Huehue Ranch Rd, Puako, 89124, az, 19280514, 26, 480 2887847,3617402,8
+rec-26-org,   Kaydence, Petersen, 16, Kokomalei St, Olowalu, 85231, az, 19831220, , 310 9892271,9448517,1
+rec-429-org,   Jena, Hayes, 32, Lippia Loop, Ewa Villages, 89143, , , 9, 423 8176718,1521224,0
+rec-43-org,   Amelia, Hayes, 23, Hope St, Puako, 85260, nv, 19401009, 28, 213 6428908,2132765,0
+rec-475-org,   Kathryn, Ouchi, 411, Ehupua Pl, Holualoa, 85247, az, 19700801, , 480 2519045,4968744,2
+rec-291-org,   Vickie, Ouchi, 3, Kamole St, Volcano, 89104, , 19720921, 31, 423 0023631,4232879,1
+rec-331-org,   Malinda, Ouchi, 51, Akau, Volcano, 90212, wa, 19790714, , 602 2238346,8546364,8
+rec-624-org,   Thelma, Ouchi, 30, Huehue Ranch Rd, Kalaeloa, 90290, az, 19210609, 23, 310 9159122,9496206,2
+rec-279-org,   Jeri, Akahi, 32, Haleola Pl, Volcano, 96768, hi, 20120419, 22, 423 3576242,8360930,9
+rec-298-org,   Domingo, Kwon, 24, Pharis Pl, , 85216, az, 19501204, 28, 206 3294087,3515011,6
+rec-601-org,   Sanoe, Ward, 11, Homestead Rd, Royal Kunia, 90290, az, 19851115, 20, 808 8126732,1681098,6
+rec-130-org,   Roxanne, Ouchi, 18, Naupaka Pl, Volcano, 85075, hi, 19670925, 26, 423 4482549,9101030,1
+rec-561-org,   Talan, Awai, 29, Poha Ln, Waipahu, 90280, az, 19991215, 28, 602 4776012,1545680,8
+rec-378-org,   Kristopher, Lokela, 13, Kipu Pl, Mauna Loa Estates, 96746, nv, 19980413, 21, 213 3658671,4581913,9
+rec-66-org,   Jesus, Mercado, 6, Olino St, Pakala Village, , tx, 19370122, , 602 1458265,2091101,8
+rec-87-org,   Talan, Barker, 480, N Kukui St, Hawaiian Paradise Park, 96714, hi, 19430927, 30, 808 0655349,6423793,0
+rec-451-org,   Justice, McKeague, 78, Ke Ala Ola Rd, Volcano, 90270, tx, 19470913, 11, 310 1331019,6089598,6
+rec-44-org,   Domingo, Lopes, 8, Kamole St, Ewa Beach, 89137, or, 19680616, 32, ,6240100,7
+rec-217-org,   Misayo, Barker, 81, Upper St, Kekaha, 96791, nv, 20061120, 29, 808 4200388,1942658,7
+rec-73-org,   Shogo, Scott, 3, Oilipuu Pl, Puako, 90290, hi, 20211205, 35, 206 0363961,1026260,6
+rec-38-org,   Jena, Kaneko, 24, Paliku St, Honomu, 90290, nv, 19391022, 38, 310 5643161,6599494,6
+rec-272-org,   Kimberley, Cortez, 87, Kaumaka Pl, Hawi, 85219, az, 19951029, 34, 480 3737390,4215319,5
+rec-154-org,   Kellan, McKeague, 58, Gulston St, Captain Cook, 85250, hi, 19720916, 36, 213 0983425,4156377,8
+rec-685-org,   Kulia, Hayes, 11, Hakaka Pl, Makaha, 96746, nv, 19460502, 22, 213 5544877,8989299,9
+rec-607-org,   Domingo, Hayes, 6, Noeau St, Wahiawa, 85043, az, , 29, 253 7759153,4717373,4
+rec-292-org,   Meleana, Ouchi, 81, Pumehana St, Volcano, 96755, , 19871012, , 310 0814395,1280854,1
+rec-161-org,   Kaydence, Kagawa, 13, Fort St, Olinda, 85287, hi, , 34, 808 2159618,8363827,5
+rec-319-org,   Tommy, Ouchi, 5, Kapaakea Ln, , 85277, az, 19990808, 31, 253 8425194,4237550,9
+rec-633-org,   Jena, Awai, 9, Manuwa Dr, Kahaluu, 96773, az, 19260624, 21, 423 8804745,5659774,8
+rec-266-org,   Jonathon, Mercado, 49, Anapalau Pl, Hawi, 85042, , 19520309, 25, 206 7952365,9751969,8
+rec-414-org,   Jena, Ouchi, 27, , Holualoa, 85224, az, 20040215, 38, 253 1044776,7942465,2
+rec-563-org,   Jena, Ouchi, 36, Liloa Rise St, Launiupoko, 85219, nv, 19300510, , 213 8716014,3940382,8
+rec-505-org,   Triton, Hayes, 722, Lanipuao St, Launiupoko, 90255, nv, 19821214, , 602 4173211,9483865,6
+rec-240-org,   Rosie, Ross, 10, Anapalau Pl, Kahului, 96746, nv, 19211119, 13, 808 5990133,8056682,3
+rec-564-org,   Jena, Castro, 18, Koaniani Way, Black Sands, 85079, nv, , 27, 423 0446008,5116890,3
+rec-0-org,   Jena, Oliwa, 53, Moreira St, Volcano, 85250, hi, 19490428, 26, 423 3196171,7598989,3
+rec-65-org,   Beatrice, Fujioka, 125, N Kukui St, Paauilo, 85002, hi, 19250605, 26, 423 2821112,5484181,5
+rec-500-org,   Sebastian, Ouchi, 17, Kanau St, Volcano, 96760, nv, 19280116, 35, 480 8072925,1429378,7
+rec-372-org,   Hilinai, McKeague, 92, Pharis Pl, Honalo, 85011, , 19210821, 34, 213 2804657,8298541,5
+rec-360-org,   Jena, Barker, 196, Kapuni St, Makaha Valley, , nv, 19520518, 27, 423 8929494,1011496,1
+rec-216-org,   Jewel, Low, 7, , Hawaiian Beaches, 85079, hi, 19720205, 36, 602 5414971,9171416,2
+rec-315-org,   Kristopher, Hayes, 2, Kaupaku Pl, Volcano, 85075, wa, 19960408, 30, 213 3115767,3092670,2
+rec-310-org,   Roxanne, Hayes, 5, Lelekepue Pl, Volcano, 85216, hi, 19280521, 33, ,5206731,9
+rec-270-org,   Talan, McKeague, 36, Kuakini Hwy, Ahuimanu, 96780, az, 19440319, 31, 808 6546674,7762516,5
+rec-237-org,   Shania, McKeague, 6, Ohu St, Laie, 90290, hi, , 32, 206 2835308,2262071,0
+rec-63-org,   Morio, Ouchi, 5, Queen Emma Square, Volcano, 96726, nv, , , 480 5936271,9584436,7
+rec-110-org,   Kaydence, Hayes, 1740, 9th Ave, Waipio Acres, 85239, wa, 19811007, 31, 253 4186373,3831733,7
+rec-407-org,   Keilani, Hayes, 32, Pualele Pl, Discovery Harbour, 85249, hi, 19440531, 10, 602 0383712,4527587,2
+rec-7-org,   Jena, McKeague, 39, Wainiha St, Hawi, 89118, hi, 19250131, 32, 423 7136948,3919730,6
+rec-316-org,   Jena, Kaneko, 4, Kaili, Waipio, 89121, az, 20200531, 29, 808 4441250,1700946,0
+rec-144-org,   UalohekeAkua, Ouchi, 58, Moreira St, Hawi, 96747, az, , 29, 808 4592003,4555338,8
+rec-417-org,   Talan, Hayes, 2, Makaala, Mauna Loa Estates, 96708, az, , , 206 6648052,4504025,2
+rec-551-org,   Kamakana, Lopes, 12, Kaohe Pl, Haena, 85085, or, 19931210, 20, 253 8888764,8810554,8
+rec-58-org,   Seth, Pagan, 30, Kualono St, Seaview, 90270, hi, 19261127, 37, 206 3363366,1982960,2
+rec-166-org,   Sebastian, McKeague, 59, Hunakai St, Volcano, 85079, az, 19700312, 35, 206 3584425,4150941,6
+rec-302-org,   Laurie, Brooks, 29, Kou Pl, Schofield Barracks, 85248, hi, 19261201, 40, 602 1762346,7050723,3
+rec-155-org,   Jonas, Noelani, 7, Akau, Mililani Town, 85085, az, 19740731, , 213 6561501,8250681,5
+rec-333-org,   Jena, Freeman, , Kuahono St, Wainiha, 96737, az, 19540408, , 423 4327056,7405033,5
+rec-508-org,   Shizuo, Alohi, 66, Laelae Way, Mountain View, 90290, az, 20190207, 28, 206 8300423,3755008,1
+rec-520-org,   Kristopher, Lam, 18, Kanani Pl, Volcano, 85075, nv, 19910819, 29, 310 7721587,4819121,8
+rec-398-org,   Jena, McKeague, 117, Naupaka Pl, Waipio Acres, 85260, hi, 19231029, 36, 310 8147869,2011856,5
+rec-617-org,   Greg, Frank, 107, Kaumaka Pl, Maunaloa, 92728, wa, 20181029, 25, 253 9678227,6231369,5
+rec-465-org,   Thelma, Hayes, 16, Kaumaka Pl, Volcano, 89131, hi, 19600603, 40, 253 3415621,9818352,6
+rec-611-org,   Hilinai, Ouchi, 14, Anapalau Pl, Kapalua, 85053, hi, 20090423, 37, 423 0778233,3876266,5
+rec-401-org,   Kaydence, Ouchi, 26, Makalei Pl, Volcano, 96746, , 20090622, 26, 808 9197859,9548073,3
+rec-40-org,   Roxanne, Ahe, 56, Loke Pl, Haliimaile, 85075, nv, 19410411, 31, ,9248110,1
+rec-185-org,   Asae, Hayes, 42, Laakea St, Volcano, 90290, az, 20070526, , 808 0974785,4793934,3
+rec-215-org,   Shania, Hawkins, 5, Kalakau St, Tiki Gardens, 85075, , 19840219, 27, 206 6602131,2612853,6
+rec-621-org,   Liane, McKeague, 13, Alakoa St, Volcano, 89185, wa, 20021101, , 206 2749463,9193669,6
+rec-312-org,   Joe, Olsen, 16, Palamea Ln, Eleele, , wa, 19650912, 28, 602 3381397,3778658,2
+rec-693-org,   Duke, Awai, 139, Paula Dr, Launiupoko, 90290, hi, 19451123, , 213 2976838,6377617,0
+rec-367-org,   Jena, Duarte, 30, , Royal Kunia, 85048, az, 19220215, 36, 213 9117369,7362285,7
+rec-104-org,   Domingo, Hawkins, 8, Cavalry Rd, Volcano, 96705, az, 19510629, 30, 808 9997464,9011515,0
+rec-206-org,   Vickie, Gutierrez, 16, Iako Pl, Tiki Gardens, 90212, , 20211204, 31, 808 4158628,6062730,6
+rec-554-org,   Jena, Barnes, 14, Kamoamoa Hmstd Rd, Waimalu, 96708, az, 20161126, , 206 4917292,5750399,9
+rec-476-org,   Roland, Mizuno, 22, Kalania Pl, Kailua CDP, 92712, hi, 19660305, , 213 8341471,5376698,8
+rec-306-org,   Shania, Bishop, 12, , Volcano, 85241, az, , , 480 9052275,8702174,1
+rec-491-org,   Keane, Barker, 17, Ehupua Pl, Kailua CDP, 85250, az, 19530520, 11, 253 4596255,8197897,1
